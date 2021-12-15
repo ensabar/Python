@@ -5,30 +5,52 @@ import random
 
 POS_X = 0
 POS_Y = 1
-
 MAP_WIDTH = 20
 MAP_HEIGHT = 15
 NUM_OF_MAP_OBJECTS = 11
 
+obstacle_definition ="""\
+##########################
+                      ####
+##################    ####
+##################    ####
+##################    ####
+################    ####
+#############         ####
+###############   #######
+##############    ####
+###############           
+##################    ####
+########     #####    ####
+#####       ####          
+##########  ######    ####
+#########   ######    ####
+#########  ###############\
+"""
+
+
 my_position = [5, 8]
+map_objects = []
 tail_length = 0
 tail = []
 
 end_game = False
-
-# Generate random objects
-map_objects = []
-while len(map_objects) < NUM_OF_MAP_OBJECTS:
-    new_position = [random.randint(0,MAP_WIDTH),random.randint(0,MAP_HEIGHT)]
-
-    if new_position not in map_objects and new_position != my_position: # Comprobamos que no se repita ninguna posicion y no este en la misma posicion que el usuario
-        map_objects.append(new_position)
-        
-
+died = False
+# Create obstacle map
+obstacle_definition = [list(row) for row in obstacle_definition.split("\n")]
 # Main Loop
 while not end_game:
+    os.system("cls")
+    # Generate random objects
+    while len(map_objects) < NUM_OF_MAP_OBJECTS:
+        new_position = [random.randint(0,MAP_WIDTH),random.randint(0,MAP_HEIGHT)]
+
+        if new_position not in map_objects and new_position != my_position: # Comprobamos que no se repita ninguna posicion y no este en la misma posicion que el usuario
+            map_objects.append(new_position)
+      
     # Draw map
     print("+" + "-" * (MAP_WIDTH * 3) + "+")
+
     for coordinate_y in range(MAP_HEIGHT):
         print("|", end="")
 
@@ -56,11 +78,14 @@ while not end_game:
                     map_objects.remove(object_in_cell)
                     tail_length += 1 # Incrementamos el tamanio de la cola
 
-
                 if tail_in_cell:
-                    print("Has muerto")
+                    died = True
                     end_game = True
-
+                    
+            if obstacle_definition[coordinate_x,coordinate_y] == "#":
+                char_to_draw = "#"
+            
+        
             print(" {} ".format(char_to_draw), end="") # con el parametro end consigues que no introduzca un intro al final del print
         print("|")
     print("+" + "-" * (MAP_WIDTH * 3) + "+")
@@ -92,6 +117,11 @@ while not end_game:
         my_position[POS_X] %= MAP_WIDTH
     elif direction == "q": # con la q cerramos el programa
         end_game = True
+
+
     os.system("cls")
+
+if died:
+    print("Has muerto!!")
 
 
