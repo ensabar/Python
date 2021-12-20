@@ -1,7 +1,7 @@
 import random
 import os
 # Declaracion de constantes
-VIDA_INICIAL_PIKACHU = 80
+VIDA_INICIAL_PIKACHU = 10
 VIDA_INICIAL_SQUIRTLE = 90
 TAMANIO_BARRA_VIDA = 20
 

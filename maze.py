@@ -102,10 +102,10 @@ while not end_game:
     # Utilizando la operacion modulo te devuelve las casillas de desplazamiento extra y te reconduce a la primera.
 
     if direction == "w":
-        new_position = [my_position[POS_X], (my_position[POS_Y] - 1) % MAP_WIDTH]
+        new_position = [my_position[POS_X], (my_position[POS_Y] - 1) % MAP_HEIGHT]
 
     elif direction == "s":
-        new_position = [my_position[POS_X], (my_position[POS_Y] + 1) % MAP_WIDTH]
+        new_position = [my_position[POS_X], (my_position[POS_Y] + 1) % MAP_HEIGHT]
 
     elif direction == "a":
         new_position = [(my_position[POS_X] - 1) % MAP_WIDTH, my_position[POS_Y]]
