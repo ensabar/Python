@@ -70,7 +70,6 @@ while not end_game:
                     my_position[POS_Y] == coordinate_y
                     char_to_draw = " @"
                     ########################################################################
-
                     # Declaracion de constantes
                     VIDA_INICIAL_PIKACHU = 10
                     VIDA_INICIAL_SQUIRTLE = 90
