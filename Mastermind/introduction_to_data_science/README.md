@@ -2,6 +2,7 @@
 
 :link: [Course Link - Introduction to Data Science with Python](https://www.mastermind.ac/courses/intro-datascience)
 
+:clipboard: Course Description
 ---
 
 This course shows the basic knowledge of Data Science using Jupyter Notebook.
