@@ -1,10 +1,10 @@
-# <img src="../../markdown/python-icon.png" alt="Python" width="24"/> Introduction to Data Science with Python
+# Introduction to Data Science with Python
 
-[Course Link - Introduction to Data Science with Python](https://www.mastermind.ac/courses/intro-datascience)
+:link: [Course Link - Introduction to Data Science with Python](https://www.mastermind.ac/courses/intro-datascience)
 
 ---
 
-This course shows the basic knowledge of Data Science programming skills.
+This course shows the basic knowledge of Data Science using Jupyter Notebook.
 
 Skills practiced in this course:
 
@@ -19,10 +19,10 @@ Skills practiced in this course:
 4. EDA (Exploratory Data Analysis)
 5. Visualization
 
-Final project (:file_folder: / Proyecto_final) of this course is an EDA of a Pokémon dataset. A lot of interesting questions about this video game have been solved with cool graphs.
+Final project (:file_folder:Proyecto_final) of this course is an EDA of a Pokémon dataset. A lot of interesting questions about this video game have been solved with cool graphs.
 
 ---
-# :trophy: Certificate
+# :mortar_board: Certificate
 
 
 <img src="../../markdown/mastermind-certified-data-science.png" alt="certificado_mastermind_data_science" width="600"/>
