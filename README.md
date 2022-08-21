@@ -6,7 +6,7 @@ This page contains brief information about all projects i have done with Python,
 
 ## Mastermind courses:
 
-* Introduction to Data Science with Python
+* [Introduction to Data Science with Python](Mastermind/introduction_to_data_science/README.md)
 
 ---
 
