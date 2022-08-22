@@ -1,0 +1,7 @@
+{
+    "Linear":{
+        "title" : "Linear constant accelerated motion",
+        "x_label" : "Time simulation (seg.)",
+        "y_label" : "Meters (m)"
+    }
+}

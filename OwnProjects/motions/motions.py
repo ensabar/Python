@@ -9,8 +9,7 @@ def simple_harmonic(a, b):
     return a + b
 
 def linear_constant(a, vi, duration):
-    duration = np.linspace(1,duration, 100)
-
-    vf = vi + a*duration
-    dataSet = np.array([duration, vf])
+    t = np.linspace(1,duration, duration)
+    vf = vi + a*t
+    dataSet = np.array([t, vf])
     return dataSet
