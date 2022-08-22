@@ -2,7 +2,7 @@
 
 :link: [Course Link - Introduction to Data Science with Python](https://www.mastermind.ac/courses/intro-datascience)
 
-:clipboard: Course Description
+# :clipboard: Course Description :clipboard:
 ---
 
 This course shows the basic knowledge of Data Science using Jupyter Notebook.
@@ -22,9 +22,8 @@ Skills practiced in this course:
 
 Final project (:file_folder:Proyecto_final) of this course is an EDA of a Pokémon dataset. A lot of interesting questions about this video game have been solved with cool graphs.
 
+# :mortar_board: Certificate :mortar_board:
 ---
-# :mortar_board: Certificate
-
 
 <img src="../../markdown/mastermind-certified-data-science.png" alt="certificado_mastermind_data_science" width="600"/>
 
