@@ -1,7 +1,21 @@
 {
     "linear":{
-        "title" : "Linear constant accelerated motion",
-        "x_label" : "Time simulation (seg.)",
-        "y_label" : "Meters (m)"
+        "real":{
+            "title" : "Linear constant accelerated motion",
+            "x_label" : "Time simulation (seg.)",
+            "y_label" : "Meters (m)"
+        }
+    },
+    "harmonic":{
+        "real":{
+            "title" : "Simple Harmonic Motion",
+            "x_label" : "Time simulation (seg.)",
+            "y_label" : "Meters (m)"
+        },
+        "phase": {
+            "title" : "Simple Harmonic Motion",
+            "x_label" : "Time simulation (seg.)",
+            "y_label" : "Meters (m)"
+        }
     }
 }
