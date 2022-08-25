@@ -21,6 +21,8 @@
    11. Combination
    12. [Projectile](https://en.wikipedia.org/wiki/Projectile_motion)
 2. Investigate about types of visualization.
+   1. [Article with inforamtion about animated plots](https://pythonforundergradengineers.com/live-plotting-with-matplotlib.html)
+   2. [Artcile for a 3D animated plot](https://towardsdatascience.com/how-to-animate-plots-in-python-2512327c8263)
 3. Create a dashboard
 4. Enable configuration parameters by screen buttons or inputs
 
