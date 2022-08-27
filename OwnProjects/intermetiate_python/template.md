@@ -15,7 +15,7 @@ Take your Python skills to the next level with this intermediate Python course. 
 * Strings :white_check_mark:
 * Collections :white_check_mark:
 * Itertools :white_check_mark:
-* Lambda Functions
+* Lambda Functions :white_check_mark:
 * Exceptions and Errors
 * Logging
 * JSON
