@@ -7,12 +7,12 @@
 
 Take your Python skills to the next level with this intermediate Python course. First, you will get a review of basic concepts such as lists, strings, and dictionaries, but with an emphasis on some lesser known capabilities. Then, you will learn more advanced topics such as threading, multiprocessing, context managers, generators, and more.
 
-* Intro
-* Lists
-* Tuples
-* Dictionaries
-* Sets
-* Strings
+* Intro :white_check_mark:
+* Lists :white_check_mark:
+* Tuples :white_check_mark:
+* Dictionaries :white_check_mark:
+* Sets :white_check_mark:
+* Strings :white_check_mark:
 * Collections
 * Itertools
 * Lambda Functions
