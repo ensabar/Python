@@ -13,8 +13,8 @@ Take your Python skills to the next level with this intermediate Python course. 
 * Dictionaries :white_check_mark:
 * Sets :white_check_mark:
 * Strings :white_check_mark:
-* Collections
-* Itertools
+* Collections :white_check_mark:
+* Itertools :white_check_mark:
 * Lambda Functions
 * Exceptions and Errors
 * Logging
