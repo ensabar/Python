@@ -16,7 +16,7 @@ Take your Python skills to the next level with this intermediate Python course. 
 * Collections :white_check_mark:
 * Itertools :white_check_mark:
 * Lambda Functions :white_check_mark:
-* Exceptions and Errors
+* Exceptions and Errors :white_check_mark:
 * Logging
 * JSON
 * Random Numbers
