@@ -23,7 +23,7 @@ Take your Python skills to the next level with this intermediate Python course. 
 * Decorators :white_check_mark:
 * Generators :white_check_mark:
 * Threading vs Multiprocessing :white_check_mark:
-* Multithreading
+* Multithreading :white_check_mark:
 * Multiprocessing
 * Function Arguments
 * The Asterisk (*) Operator
