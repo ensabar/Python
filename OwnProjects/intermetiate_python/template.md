@@ -24,7 +24,7 @@ Take your Python skills to the next level with this intermediate Python course. 
 * Generators :white_check_mark:
 * Threading vs Multiprocessing :white_check_mark:
 * Multithreading :white_check_mark:
-* Multiprocessing
+* Multiprocessing :white_check_mark:
 * Function Arguments
 * The Asterisk (*) Operator
 * Shallow vs Deep Copying
