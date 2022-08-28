@@ -20,7 +20,7 @@ Take your Python skills to the next level with this intermediate Python course. 
 * Logging :white_check_mark:
 * JSON :white_check_mark:
 * Random Numbers :white_check_mark:
-* Decorators
+* Decorators :white_check_mark:
 * Generators
 * Threading vs Multiprocessing
 * Multithreading
