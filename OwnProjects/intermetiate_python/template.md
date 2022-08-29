@@ -25,8 +25,8 @@ Take your Python skills to the next level with this intermediate Python course. 
 * Threading vs Multiprocessing :white_check_mark:
 * Multithreading :white_check_mark:
 * Multiprocessing :white_check_mark:
-* Function Arguments
-* The Asterisk (*) Operator
+* Function Arguments :white_check_mark:
+* The Asterisk (*) Operator :white_check_mark:
 * Shallow vs Deep Copying
 * Context Managers
 
