@@ -28,7 +28,7 @@ Take your Python skills to the next level with this intermediate Python course. 
 * Function Arguments :white_check_mark:
 * The Asterisk (*) Operator :white_check_mark:
 * Shallow vs Deep Copying :white_check_mark:
-* Context Managers
+* Context Managers :white_check_mark:
 
 
 
