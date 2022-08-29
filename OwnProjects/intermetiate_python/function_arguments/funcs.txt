@@ -1,0 +1,7 @@
+- Difference between arguments and parameters
+- Positional and keyword agurments
+- Default arguments
+- Variable-length arguments (*args, **kwargs)
+- Container unpacking into function arguments
+- Local vs global arguments
+- Parameter passing (by value or by reference)
