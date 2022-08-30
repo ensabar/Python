@@ -10,7 +10,7 @@ This page contains brief information about all projects i have done with Python,
 * [Introduction to Data Science with Python](Mastermind/introduction_to_data_science/README.md)
 
 ## :file_folder: Own projects
-* [Intermediate Python Programming Course](OwnProjects\intermetiate_python\README.md)
+* [Intermediate Python Programming Course](OwnProjects/intermetiate_python/README.md)
 
 ---
 
