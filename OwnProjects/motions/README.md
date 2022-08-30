@@ -1,4 +1,4 @@
-# REpresenting motions
+# Representing motions
 
 :link: [Motion - Wikipedia]([link](https://en.wikipedia.org/wiki/Motion))
 
