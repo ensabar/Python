@@ -21,7 +21,8 @@
    1. [Article with inforamtion about animated plots](https://pythonforundergradengineers.com/live-plotting-with-matplotlib.html)
    2. [Artcile for a 3D animated plot](https://towardsdatascience.com/how-to-animate-plots-in-python-2512327c8263)
 3. Create a dashboard
-   1. [Create a local web server using Flask](https://j2logo.com/tutorial-flask-leccion-2-plantillas/)
+   1. [Create a local web server using Flask](https://j2logo.com/tutorial-flask-leccion-2-plantillas/) :white_check_mark:
+   2. How to execute a Python file in HTML code
 4. Enable configuration parameters by screen buttons or inputs
 
 
