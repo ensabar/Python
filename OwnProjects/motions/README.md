@@ -10,14 +10,13 @@
 1. Investigate about different types of motion and describe its equations.
    1. [Linear](https://en.wikipedia.org/wiki/Linear_motion) :white_check_mark:
    2. [Simple harmonic (SHM)](https://en.wikipedia.org/wiki/Simple_harmonic_motion) :white_check_mark:
-   3. [Brownian](https://en.wikipedia.org/wiki/Brownian_motion)
-   4. [Circular](https://en.wikipedia.org/wiki/Circular_motion)
+   3. [Circular](https://en.wikipedia.org/wiki/Circular_motion) :white_check_mark:
+   4. [Ellipse](https://en.wikipedia.org/wiki/Ellipse) :white_check_mark:
    5. [Rotatory](https://en.wikipedia.org/wiki/Rotation)
-   6. [Curvilinear](https://en.wikipedia.org/wiki/Curvilinear_motion)
-   7. [Rolling](https://en.wikipedia.org/wiki/Rolling)
-   8. [Oscillatory](https://en.wikipedia.org/wiki/Oscillation)
-   9. [Vibratory](https://en.wikipedia.org/wiki/Vibration)
-   10. [Projectile](https://en.wikipedia.org/wiki/Projectile_motion)
+   6. [Rolling](https://en.wikipedia.org/wiki/Rolling)
+   7. [Oscillatory](https://en.wikipedia.org/wiki/Oscillation)
+   8. [Vibratory](https://en.wikipedia.org/wiki/Vibration)
+   9.  [Projectile](https://en.wikipedia.org/wiki/Projectile_motion)
 2. Investigate about types of visualization.
    1. [Article with inforamtion about animated plots](https://pythonforundergradengineers.com/live-plotting-with-matplotlib.html)
    2. [Artcile for a 3D animated plot](https://towardsdatascience.com/how-to-animate-plots-in-python-2512327c8263)
