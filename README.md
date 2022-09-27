@@ -16,7 +16,7 @@ This page contains brief information about all projects i have done with Python,
 ---
 
 ## :bulb: Projects ideas: :bulb:
-* [Tkinter Course - Create Graphic User Interfaces in Python Tutorial](https://youtu.be/YXPyB4XeYLA)
+
 * 2D games: Tetris, Space Invader
 * Sudoku generator/solver
 * Data Analysis of datasets

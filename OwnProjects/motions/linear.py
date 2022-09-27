@@ -8,21 +8,18 @@ import matplotlib.pyplot as plt
 motion = 'linear'
 path = 'OwnProjects\motions\descriptions.json'
 plot_type = 'real'
-    
-def linear(a, vi, duration):
 
-    
-    title, x_label, y_label = read_json_plot_properties(path, motion, plot_type)
+title, x_label, y_label = read_json_plot_properties(path, motion, plot_type)
 
-    a = float(input('Acceleration (m/s^2): '))
-    vi = float(input('Initial velocity (m/s): ' ))
-    duration = int(input('Time simulation (seg.): '))
+a = float(input('Acceleration (m/s^2): '))
+vi = float(input('Initial velocity (m/s): ' ))
+duration = int(input('Time simulation (seg.): '))
 
-    dataSet = linear_constant(a, vi, duration)
+dataSet = linear_constant(a, vi, duration)
 
-    fig = figure_settings(title, x_label, y_label)
-    return fig
-    #plt.xlim([0,max(dataSet[0]) + 0.1*max(dataSet[0])])
-    #plt.ylim([0,max(dataSet[1]) + 0.1*max(dataSet[1])]) 
+fig = figure_settings(title, x_label, y_label)
 
-    #run_animation(fig, update, dataSet)
+plt.xlim([0,max(dataSet[0]) + 0.1*max(dataSet[0])])
+plt.ylim([0,max(dataSet[1]) + 0.1*max(dataSet[1])]) 
+
+run_animation(fig, update, dataSet)
