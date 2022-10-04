@@ -6,7 +6,7 @@
 ---
 
 * In this project i would like to create a dashboard and a configuarble visualization of differents motions. In order to structure properly this project. The main steps:
-=
+
 1. Investigate about different types of motion and describe its equations.
    1. [Linear](https://en.wikipedia.org/wiki/Linear_motion) :white_check_mark:
    2. [Simple harmonic (SHM)](https://en.wikipedia.org/wiki/Simple_harmonic_motion) :white_check_mark:
@@ -21,8 +21,6 @@
    1. [Article with inforamtion about animated plots](https://pythonforundergradengineers.com/live-plotting-with-matplotlib.html)
    2. [Artcile for a 3D animated plot](https://towardsdatascience.com/how-to-animate-plots-in-python-2512327c8263)
 3. Create a dashboard
-   1. [Create a local web server using Flask](https://j2logo.com/tutorial-flask-leccion-2-plantillas/) :white_check_mark:
-   2. How to execute a Python file in HTML code
 4. Enable configuration parameters by screen buttons or inputs
 
 
